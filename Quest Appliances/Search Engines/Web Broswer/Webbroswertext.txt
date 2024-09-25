@@ -1,0 +1,25 @@
+<html>
+
+<body>
+<style>
+body {background: linear-gradient(hsl(0,100%,50%),hsl(60,100%,50%),hsl(120,100%,50%),hsl(180,100%,50%),hsl(240,100%,50%),hsl(300,100%,50%));}
+</style>
+
+<h1><font color="white"><center><b><u>WEB</u> <u>BROWSERS</u></b></center></h1>
+</br></br></br></br></br>
+<center>
+<a href="https://www.google.com" target="_blank">
+<h1><font color="purple">GOOGLE</h1></br>
+<img src="https://www.google.co.in/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" width=200/>
+
+</a></br></br></br></br></br>
+
+<a href="https://in.search.yahoo.com" target="_blank">
+<h1><font color="purple">YAHOO !</h1></br>
+<img src="https://www.marketexpress.in/wp-content/uploads/2016/08/yahoo-strategic-failure-marketexpress-in.jpg" width=200/>
+
+</a></br></br></br></br></br>
+</center>
+</body>
+
+</html>

@@ -1,0 +1,35 @@
+<html>
+
+<body>
+<style>
+body {background: linear-gradient(hsl(0,100%,50%),hsl(60,100%,50%),hsl(120,100%,50%),hsl(180,100%,50%),hsl(240,100%,50%),hsl(300,100%,50%));}
+</style>
+<h1><font color="white"><center><b><u>INTERNET</u> <u>TELEVISIONS</u></b></center></h1>
+<center>
+<a href="https://www.hotstar.com" target="_blank">
+<h1><font color="purple">HOTSTAR</h1></br>
+<img src="https://m.media-amazon.com/images/I/71dL1eSWVVL._AC_UL480_FMwebp_QL65_.png" width=200/>
+
+</a>
+
+<a href="https://www.primevideo.com" target="_blank">
+<h1><font color="purple">PRIME VIDEO</h1></br>
+<img src="https://m.media-amazon.com/images/G/01/digital/video/acquisition/web_footer_logo._CB462908456_.png" width=200/>
+
+</a>
+
+<a href="https://www.voot.com" target="_blank">
+<h1><font color="purple">VOOT</h1></br>
+<img src="https://tse3.mm.bing.net/th?id=OIP.HFT_3fOD_lirqnvzl8HTDwHaEa&pid=Api&P=0" width=200/>
+
+</a>
+
+<a href="https://www.youtube.com" target="_blank">
+<h1><font color="purple">YOUTUBE</h1></br>
+<img src="https://pngimg.com/uploads/youtube/youtube_PNG102352.png" width=200/>
+
+</a>
+</center>
+</body>
+
+</html>

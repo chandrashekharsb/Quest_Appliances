@@ -1,0 +1,40 @@
+
+<html>
+<style>
+body {background: linear-gradient(hsl(0,100%,50%),hsl(60,100%,50%),hsl(120,100%,50%),hsl(180,100%,50%),hsl(240,100%,50%),hsl(300,100%,50%));}
+</style><center><h1><font color="white"><u><b>SHOPPING</b></u></h1></br></br></br></br></br>
+
+<a href="https://www.ajio.com" target="_blank">
+<h1><font color="purple">AJIO</h1></br>
+<img src="https://assets.ajio.com/static/img/Ajio-Logo.svg" width=200/>
+
+</a></br></br></br></br></br>
+
+<a href="https://www.amazon.com" target="_blank">
+<h1><font color="purple">AMAZON</h1></br>
+<img src="https://pngimg.com/uploads/amazon/amazon_PNG5.png" width=200/>
+
+</a></br>
+</br></br></br></br>
+<a href="https://www.flipkart.com" target="_blank">
+<h1><font color="purple">FLIPKART</h1></br>
+<img src="https://yt3.ggpht.com/a/AATXAJwa9pm_0DMtewkg_fLI_xnLencMTyedkDbo5A=s900-c-k-c0xffffffff-no-rj-mo" width=200/>
+
+</a></br>
+</br></br></br></br>
+<a href="https://www.myntra.com" target="_blank">
+<h1><font color="purple">MYNTRA</h1></br>
+<img src="https://images.adgully.com/img/800/201704/myntra-logo.jpg" width=200/>
+
+</a></br></br></br></br></br>
+
+<a href="https://www.snapdeal.com" target="_blank">
+<h1><font color="yellow">SNAPDEAL</h1></br>
+<img src="https://i3.sdlcdn.com/img/snapdeal/darwin/logo/sdLatestLogo.svg" width=200/>
+
+</a></br></br></br></br></br>
+</center>
+
+</body>
+
+</html>

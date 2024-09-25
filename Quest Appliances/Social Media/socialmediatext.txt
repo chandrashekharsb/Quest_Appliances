@@ -1,0 +1,35 @@
+<html>
+<head><title>Social Medias</title></head>
+<style>
+body {background: linear-gradient(hsl(0,100%,50%),hsl(60,100%,50%),hsl(120,100%,50%),hsl(180,100%,50%),hsl(240,100%,50%),hsl(300,100%,50%));}
+</style>
+<center>
+<body>
+<h1><font color="white"><u><b>Social Media</b></u></h1></br></br></br></br></br>
+<a href="https://accounts.google.com/ServiceLogin/signinchooser?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&ifkv=AQDHYWpRoCfXY_5nBa7Di5LE_hlVf6_JypfZwCnmc-bWLc-jbf5Vp1_v95iZE6MoPanYiiNSRGVZ8Q&flowName=GlifWebSignIn&flowEntry=ServiceLogin" target="_blank">
+<h1><font color="purple">G Mail</h1></br></br>
+<img src="https://cdn.business2community.com/wp-content/uploads/2015/07/gmail-logo-2015-300x226.png.png" width=200/>
+</a>
+</br></br></br></br></br>
+<a href="https://www.instagram.com" target="_blank">
+<h1><font color="purple">Instagram</h1></br></br>
+<img src="https://tse1.mm.bing.net/th?id=OIP.krp2JIzB7BAnYpE1iXj92gHaEN&pid=Api&P=0" width=200/>
+</a>
+</br></br></br></br></br>
+<a href="https://www.snapchat.com" target="_blank">
+<h1><font color="purple">Snapchat</h1></br></br>
+<img src="https://logos-world.net/wp-content/uploads/2020/04/Snapchat-Logo-2013-2019.png" width=200/>
+</a>
+</br></br></br></br></br>
+<a href="https://www.twitter.com" target="_blank">
+<h1><font color="purple">Twitter</h1></br></br>
+<img src="https://keystoliteracy.com/wp-content/uploads/2020/01/twitter-logo-transparent-15.png" width=200/>
+</a>
+</br></br></br></br></br>
+<a href="https://www.facebook.com" target="_top">
+<h1><font color="yellow">Facebook</h1></br></br>
+<img src="http://media.idownloadblog.com/wp-content/uploads/2010/11/Facebook-400x400.png" width=200/>
+</a>
+</center>
+</body>
+</html>
